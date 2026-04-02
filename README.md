@@ -7,7 +7,7 @@
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-   <a href="page1.html"><img src="https://ecole-lucieaubrac-stdomineuc.ac-rennes.fr/spip.php?article158" height="300">
+   <a href="page1.html"><img src="jour-1.jpg" height="300">
   </a>
   <h1>top 3 des meilleurs lieux de plongée en Belgique </h1>  
 <p>selon moi</p>
