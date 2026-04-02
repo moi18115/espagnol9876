@@ -8,7 +8,7 @@
 </head>
 <body>
   <img src="jour-1 (1).jpg" height="300">
-   <a href="page1.html"><img src="jour-1.jpg" height="300">
+   <a href="page1.html"><img src="jour-1.jpg" height="500">
   </a>
   <h1>top 3 des meilleurs lieux de plongée en Belgique </h1>  
 <p>selon moi</p>
