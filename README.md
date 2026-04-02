@@ -7,7 +7,7 @@
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-   <a href="page1.html"><img src="https://www.istockphoto.com/fr/vectoriel/calendrier-simple-avec-date-1-conception-dic%C3%B4ne-du-premier-jour-ic%C3%B4ne-du-gm1453343222-489354330" width="" height="300">
+   <a href="page1.html"><img src="https://www.canva.com/design/DAHFuZuQNtw/jVX20QkeCj8HOs4S-KhtOw/view" width="" height="300">
   </a>
   <h1>top 3 des meilleurs lieux de plongée en Belgique </h1>  
 <p>selon moi</p>
