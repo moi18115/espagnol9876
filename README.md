@@ -3,11 +3,11 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>un premier site</title>
+
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-   <a href="https://openclassrooms.com/fr/"><img src="https://www.royalcas.be/wp-content/uploads/2022/08/275032602_1733531236854260_5399639275077024695_n-1536x1152.jpg" width="" height="300">
+   <a href="page1.html"><img src="https://canva.link/wek74xagyrh16lp" width="" height="300">
   </a>
   <h1>top 3 des meilleurs lieux de plongée en Belgique </h1>  
 <p>selon moi</p>
