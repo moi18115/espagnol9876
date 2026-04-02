@@ -12,7 +12,7 @@
   <h1>top 3 des meilleurs lieux de plongée en Belgique </h1>  
 <p>selon moi</p>
   <h2> top 3: la carière de Vodelée </h2> 
-<img src="https://www.royalcas.be/wp-content/uploads/2022/08/275032602_1733531236854260_5399639275077024695_n-1536x1152.jpg" width="" height="300">
+<img src="https://www.royalcas.be/wp-content/uploads/2022/08/275032602_1733531236854260_5399639275077024695_n-1536x1152.jpg" width="" height="">
   <p> Cette carrière de marbre rouge couvre une superficie d’ un hectare et demi et affiche une profondeur de 40 mètres maximum. De nombreux plateaux à différents niveaux permettent une plongée sympathique et distrayante  pour tous les niveaux de plongeurs. On peut y retrouver des épaves :
  </p>
   <ul> 
