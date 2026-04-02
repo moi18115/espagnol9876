@@ -7,7 +7,7 @@
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-   <a href="page1.html"><img src="https://www.canva.com/design/DAHFuZuQNtw/jVX20QkeCj8HOs4S-KhtOw/view" width="" height="300">
+   <a href="page1.html"><img src="![jour-1](https://github.com/user-attachments/assets/2c50c3a2-bdfd-4d7d-ba05-5080036a8c60)" height="300">
   </a>
   <h1>top 3 des meilleurs lieux de plongée en Belgique </h1>  
 <p>selon moi</p>
