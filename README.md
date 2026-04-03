@@ -7,7 +7,7 @@
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
- 
+   <h1>Progreso del voyaje </h1> 
    <a href="page1.html"><img src="dia-1.jpg" height="200"></a>
     <a href="page1.html"><img src="dia-1.jpg" height="200"></a>
     <br>
