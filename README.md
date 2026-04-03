@@ -8,8 +8,15 @@
 </head>
 <body>
  
-   <a href="page1.html"><img src="jour-1.jpg" height="200">
-  </a>
+   <a href="page1.html"><img src="jour-1.jpg" height="200"></a>
+    <a href="page1.html"><img src="jour-1.jpg" height="200"></a>
+     <a href="page1.html"><img src="jour-1.jpg" height="200"></a>
+      <a href="page1.html"><img src="jour-1.jpg" height="200"></a>
+       <a href="page1.html"><img src="jour-1.jpg" height="200"></a>
+        <a href="page1.html"><img src="jour-1.jpg" height="200"></a>
+         <a href="page1.html"><img src="jour-1.jpg" height="200"></a>
+          <a href="page1.html"><img src="jour-1.jpg" height="200"></a>
+           <a href="page1.html"><img src="jour-1.jpg" height="200"></a>
   <h1>top 3 des meilleurs lieux de plongée en Belgique </h1>  
 <p>selon moi</p>
   <h2> top 3: la carière de Vodelée </h2> 
