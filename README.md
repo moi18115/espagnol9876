@@ -8,14 +8,18 @@
 </head>
 <body>
  
-   <a href="page1.html"><img src="jour-1.jpg" height="200"></a>
-    <a href="page1.html"><img src="jour-1.jpg" height="200"></a>
-     <a href="page1.html"><img src="jour-1.jpg" height="200"></a>
-      <a href="page1.html"><img src="jour-1.jpg" height="200"></a>
-       <a href="page1.html"><img src="jour-1.jpg" height="200"></a>
-        <a href="page1.html"><img src="jour-1.jpg" height="200"></a>
-         <a href="page1.html"><img src="jour-1.jpg" height="200"></a>
-          <a href="page1.html"><img src="jour-1.jpg" height="200"></a>
+   <a href="page1.html"><img src="dia-1.jpg" height="200"></a>
+    <a href="page1.html"><img src="dia-1.jpg" height="200"></a>
+    <br>
+     <a href="page1.html"><img src="dia-1.jpg" height="200"></a>
+      <a href="page1.html"><img src="dia-1.jpg" height="200"></a>
+      <br>
+       <a href="page1.html"><img src="dia-1.jpg" height="200"></a>
+        <a href="page1.html"><img src="dia-1.jpg" height="200"></a>
+        <br>
+         <a href="page1.html"><img src="dia-1.jpg" height="200"></a>
+          <a href="page1.html"><img src="dia-1.jpg" height="200"></a>
+          <br>
            <a href="page1.html"><img src="jour-1.jpg" height="200"></a>
   <h1>top 3 des meilleurs lieux de plongée en Belgique </h1>  
 <p>selon moi</p>
